@@ -1,4 +1,4 @@
-baseurl = "http://cloudlabs.co/"
+baseurl = "http://cloudlabs.co.uk.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "Cloud Labs Ltd."
 theme = "hugo-creative-theme"

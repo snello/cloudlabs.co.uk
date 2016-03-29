@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Labs Ltd.</title>
-    <link>http://cloudlabs.co/</link>
+    <link>http://cloudlabs.co.uk.s3-website-us-east-1.amazonaws.com/</link>
     <description>Recent content on Cloud Labs Ltd.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://cloudlabs.co/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cloudlabs.co.uk.s3-website-us-east-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
